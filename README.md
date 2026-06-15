@@ -4,5 +4,5 @@
 ### 3. [廣告圖生成](Product-Ad.md)
 ### 4. [程式碼編寫](Program-Learn.md)
 ### 5. [商品文案撰寫](Copywriting.md)
-### 6. [主視覺圖生成](Key-Visual.md)
+### 6. [主視覺圖建議](Key-Visual.md)
 ### 7. [短影音爆點設計](Reels-Hook.md)
