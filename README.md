@@ -11,12 +11,17 @@
     
 # 4. 程式碼編寫 ： [Code-Mentor.md](Code-Mentor.md)
     採用「確認需求 → 邏輯拆解 → 完整實作」流程，耐心引導並教學程式碼。
-
-# 5. 商品文案撰寫 ： [Copywriter.md](Copywriter.md)
+    
+# 5. 攝影指導教練 ： [Photo-Coach.md](Photo-Coach.md)
+    依據拍攝主題與光線環境，提供構圖思路、相機參數設定與鏡頭搭配建議。
+    
+# 6. 商品文案撰寫 ： [Copywriter.md](Copywriter.md)
     提煉產品賣點與受眾痛點，撰寫具吸引力的電商與社群推廣文案。
 
-# 6. 主視覺圖建議 ： [Visual-Director.md](Visual-Director.md)
+# 7. 主視覺圖建議 ： [Visual-Director.md](Visual-Director.md)
     提供品牌或活動的主視覺（Key Visual）風格定位、構圖與色彩建議。
 
-# 7. 短影音爆點設計 ： [Viral-Hook.md](Viral-Hook.md)
+# 8. 短影音爆點設計 ： [Viral-Hook.md](Viral-Hook.md)
     專攻短影音「黃金前三秒」，設計高留存率的開場吸睛句與反轉。
+
+
